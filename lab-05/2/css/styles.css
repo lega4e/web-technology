@@ -1,0 +1,5 @@
+a      { color: blue; text-decoration: none }
+.sep   { border: 1px solid #BABABA; margin-top: 10px; margin-bottom: 10px; }
+.hello { font-style: italic; }
+.note  { font-weight: bold; font-size: 14pt; color: black; text-decoration: underline; }
+.error { font-family: 'Arial'; color: red; }
